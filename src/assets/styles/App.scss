@@ -1,0 +1,26 @@
+@import "~bootstrap/scss/bootstrap";
+
+.todoItems__component {
+  .todos {
+    border: 1px solid #626262;
+    background-color: rgb(78, 78, 78);
+  }
+  .trash-icon {
+    font-size: 25px;
+    margin-top: 15px;
+    margin-right: 10px;
+    color: white;
+  }
+  .done-icon {
+    font-size: 25px;
+    margin-top: 15px;
+    margin-right: 10px;
+    color: green;
+  }
+  .close-icon {
+    font-size: 25px;
+    margin-top: 15px;
+    margin-right: 10px;
+    color: red;
+  }
+}
